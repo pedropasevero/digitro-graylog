@@ -117,9 +117,3 @@ Por isso, sempre valide o ambiente antes e depois da importação.
 ```
 
 ---
-
-## 👨‍💻 Autor
-
-Procedimento documentado para padronização de ambientes Graylog e reuso de dashboards.
-
----
